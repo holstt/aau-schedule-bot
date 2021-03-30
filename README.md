@@ -1,6 +1,6 @@
+# AauScheduleScraping
 ![dotnet](https://img.shields.io/badge/asp--net--core-3.1-blue)
 
-# AauScheduleScraping
 Scrapes schedules from Aalborg University (AAU) and notifies subscribers of any changes. 
 
 The schedules are stored in a Postgres database and can be retrieved through its' REST API.
