@@ -1,4 +1,4 @@
-
+![dotnet](https://img.shields.io/badge/asp--net--core-3.1-blue)
 
 # AauScheduleScraping
 Scrapes schedules from Aalborg University (AAU) and notifies subscribers of any changes. 
