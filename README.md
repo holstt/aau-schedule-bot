@@ -1,5 +1,9 @@
+
+
 # AauScheduleScraping
 Scrapes schedules from Aalborg University (AAU) and notifies subscribers of any changes. 
+
+The schedules are stored in a Postgres database and can be retrieved through its' REST API.
 
 ## About
 
@@ -15,10 +19,14 @@ It is possible to run the application independently of the other services in the
 Either run the project natively or use the provided Dockerfile.
 
 > TODO: 
-> - Setting own config/env values.
+> - Setting own config/env values. db etc
 > - Native + Docker command
  
 ## Usage 
 
 > TODO:
 > - Insert screenshot, demo gif, code examples... 
+
+## Project TODO
+- [ ] Push code to repo
+- [ ] Migrate to .NET 5
