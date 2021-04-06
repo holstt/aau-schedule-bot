@@ -1,4 +1,4 @@
-# AauScheduleScraping
+# Aau Schedule Scraping
 ![dotnet](https://img.shields.io/badge/asp--net--core-3.1-blue)
 
 Scrapes schedules from Aalborg University (AAU) and notifies subscribers of any changes. 
@@ -19,12 +19,14 @@ It is possible to run the application independently of the other services in the
 Either run the project natively or use the provided Dockerfile.
 
 > TODO: 
-> - Setting own config/env values. db etc
+> - Setting own config/env values. db, webhook url etc
 > - Native + Docker command
  
 ## Usage 
 
 > TODO:
+> - Request schedule endpoint
+> - Callback request format (when changes are detected)
 > - Insert screenshot, demo gif, code examples... 
 
 ## Project TODO
