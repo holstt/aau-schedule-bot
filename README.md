@@ -1,3 +1,6 @@
+
+> :warning: Currently, this repo serves as documentation. Code will follow eventually :-) 
+
 # Aau Schedule Scraping
 ![dotnet](https://img.shields.io/badge/asp--net--core-3.1-blue)
 ![csharp](https://img.shields.io/badge/C%23-8-blue)
